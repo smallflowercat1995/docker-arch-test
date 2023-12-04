@@ -1,5 +1,7 @@
 # 使用 docker manifest 命令来创建和推送 manifest list 测试多平台镜像推送一个tag
 
+## <a href="https://hub.docker.com/r/smallflowercat1995/docker-arch-test" title="docker制作好的测试镜像">docker制作好的测试镜像</a>
+
 ## debian12 安装 qemu
     sudo eatmydata aptitude --without-recommends -o APT::Get::Install-Recommends="true" -o APT::Get::Install-Suggests="true" install -y qemu-kvm \
                                                                                                                                 qemu-user-static \
