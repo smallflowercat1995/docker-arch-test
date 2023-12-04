@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  arch-app:
+    build:
+      context: .
+    platform: linux/arm64/v8
+    image: smallflowercat1995/docker-arch-test:arm64
+    command:
+      - "/bin/ash"
+      - "/app/arch-test.sh"
