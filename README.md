@@ -1,5 +1,5 @@
 # 使用 docker manifest 命令来创建和推送 manifest list 测试多平台镜像推送一个tag  
-![Watchers](https://img.shields.io/github/watchers/smallflowercat1995/docker-arch-test) ![Stars](https://img.shields.io/github/stars/smallflowercat1995/docker-arch-test) ![Forks](https://img.shields.io/github/forks/smallflowercat1995/docker-arch-test) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=smallflowercat1995.docker-arch-test) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Watchers](https://img.shields.io/github/watchers/smallflowercat1995/docker-arch-test) ![Stars](https://img.shields.io/github/stars/smallflowercat1995/docker-arch-test) ![Forks](https://img.shields.io/github/forks/smallflowercat1995/docker-arch-test) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=smallflowercat1995/docker-arch-test) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 <a href="https://star-history.com/#smallflowercat1995/docker-arch-test&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=smallflowercat1995/docker-arch-test&type=Date&theme=dark" />
